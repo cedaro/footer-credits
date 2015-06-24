@@ -24,27 +24,27 @@ msgstr ""
 "X-Poedit-Bookmarks: \n"
 "X-Textdomain-Support: yes\n"
 
-#: footer-credits.php:95 footer-credits.php:107
+#: class-footer-credits.php:81 class-footer-credits.php:93
 msgid "Credits"
 msgstr ""
 
-#: footer-credits.php:122
+#: class-footer-credits.php:108
 msgid "Before"
 msgstr ""
 
-#: footer-credits.php:123
+#: class-footer-credits.php:109
 msgid "After"
 msgstr ""
 
-#: footer-credits.php:124
+#: class-footer-credits.php:110
 msgid "Replace"
 msgstr ""
 
-#: footer-credits.php:125
+#: class-footer-credits.php:111
 msgid "Remove All"
 msgstr ""
 
-#: footer-credits.php:127
+#: class-footer-credits.php:113
 msgid "Placement"
 msgstr ""
 
