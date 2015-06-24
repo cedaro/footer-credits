@@ -7,8 +7,6 @@ __Requires:__ WordPress 4.0+
 __License:__ [GPL-2.0+](http://www.gnu.org/licenses/gpl-2.0.html)
 
 
-## Description
-
 **This plugin only works with themes that have added support.**
 
 *Footer Credits* provides a standardized method for making theme credits editable. It registers a new section and fields in the Customizer for modifying the credits and choosing how they appear.
@@ -30,7 +28,7 @@ After installing and activating:
 3. Add some text to the **Credits** text area
 4. Choose whether your custom text appears before, after, or replaces the default credits.
 
-*Tip: Insert {{year}} in your text to have the year update automatically.*
+*Tip: Insert `{{year}}` in your text to have the year update automatically.*
 
 ![Footer Credits Customizer Screenshot](https://raw.github.com/cedaro/footer-credits/master/screenshot-1.png)  
 _The Customizer section and fields._
