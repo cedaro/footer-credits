@@ -24,7 +24,7 @@ If your theme doesn't work with Footer Credits, ask the developer to add support
 = Additional Resources =
 
 * [Write a review](http://wordpress.org/support/view/plugin-reviews/footer-credits#postform)
-* [Contribute on GitHub](https://github.com/blazersix/simple-image-widget)
+* [Contribute on GitHub](https://github.com/cedaro/footer-credits)
 * [Follow @cedaroco](https://twitter.com/cedaroco)
 * [Vist Cedaro](http://www.cedaro.com/?utm_source=wordpress.org&utm_medium=link&utm_content=footer-credits-readme&utm_campaign=plugins)
 
