@@ -18,7 +18,6 @@
  * License:     GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: footer-credits
- * Domain Path: /languages
  */
 
 /**
@@ -27,17 +26,6 @@
 if ( ! class_exists( '' ) ) {
 	include( dirname( __FILE__ ) . '/class-footer-credits.php' );
 }
-
-/**
- * Localize the plugin.
- *
- * @since 1.0.0
- */
-function cedaro_footer_credits_load_textdomain() {
-	$plugin_rel_path = dirname( plugin_basename( __FILE__ ) ) . '/languages';
-	load_plugin_textdomain( 'footer-credits', false, $plugin_rel_path );
-}
-add_action( 'plugins_loaded', 'cedaro_footer_credits_load_textdomain' );
 
 /**
  * Load the plugin.
