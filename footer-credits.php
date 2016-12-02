@@ -10,13 +10,13 @@
  *
  * @wordpress-plugin
  * Plugin Name: Footer Credits
- * Plugin URI:  https://wordpress.org/plugins/footer-credits
+ * Plugin URI:  https://wordpress.org/plugins/footer-credits/?utm_source=wordpress-plugin&utm_medium=link&utm_content=footer-credits-plugin-uri&utm_campaign=plugins
  * Description: A Customizer control for editing footer credits.
- * Version:     1.0.0
+ * Version:     1.1.0
  * Author:      Cedaro
- * Author URI:  http://www.cedaro.com/?utm_source=wordpress-plugin&utm_medium=link&utm_content=footer-credits-author-uri&utm_campaign=plugins
+ * Author URI:  https://www.cedaro.com/?utm_source=wordpress-plugin&utm_medium=link&utm_content=footer-credits-author-uri&utm_campaign=plugins
  * License:     GPL-2.0+
- * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: footer-credits
  */
 

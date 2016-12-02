@@ -4,7 +4,7 @@ A WordPress plugin for making theme footer credits editable.
 
 __Contributors:__ [Brady Vercher](https://twitter.com/bradyvercher)  
 __Requires:__ WordPress 4.0+  
-__License:__ [GPL-2.0+](http://www.gnu.org/licenses/gpl-2.0.html)
+__License:__ [GPL-2.0+](https://www.gnu.org/licenses/gpl-2.0.html)
 
 
 **This plugin only works with themes that have added support.**
@@ -16,7 +16,7 @@ Theme authors, let your users and customers know your theme supports the *Footer
 
 ## Installation
 
-*Footer Credits* is available in the [WordPress plugin directory](http://wordpress.org/plugins/footer-widgets/), so it can be installed from your admin panel.
+*Footer Credits* is available in the [WordPress plugin directory](https://wordpress.org/plugins/footer-credits/), so it can be installed from your admin panel.
 
 
 ## Usage

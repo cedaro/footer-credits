@@ -1,7 +1,7 @@
 {
   "name": "cedaro/footer-credits",
   "description": "A WordPress Customizer control for editing footer credits.",
-  "keywords": ["wordpress"],
+  "keywords": [ "wordpress" ],
   "type": "wordpress-plugin",
   "homepage": "https://github.com/cedaro/footer-credits",
   "license": "GPL-2.0+",
@@ -9,7 +9,7 @@
     {
       "name": "Brady Vercher",
       "email": "brady@blazersix.com",
-      "homepage": "http://www.cedaro.com/"
+      "homepage": "https://www.cedaro.com/"
     }
   ],
   "support": {
