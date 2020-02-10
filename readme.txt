@@ -2,8 +2,8 @@
 
 Contributors: cedaro, bradyvercher
 Tags: credits, footer, credits, site credits, customizer, copyright, colophon
-Requires at least: 4.4
-Tested up to: 4.7
+Requires at least: 4.9
+Tested up to: 5.3
 Stable tag: 1.1.0
 License: GPL-2.0+
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -82,7 +82,7 @@ endif;`
 ## Changelog
 
 ### 1.1.0 - December 2, 2016
-* Removed the call to `load_plugin_textdomain()` in favor of [just-in-time text domain loading](https://make.wordpress.org/core/2016/07/06/i18n-improvements-in-4-6/) available sine WordPress 4.6.
+* Removed the call to `load_plugin_textdomain()` in favor of [just-in-time text domain loading](https://make.wordpress.org/core/2016/07/06/i18n-improvements-in-4-6/) available since WordPress 4.6.
 * Updated URLs to https where possible.
 
 ### 1.0.0
