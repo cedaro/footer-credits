@@ -2,8 +2,8 @@
 
 Contributors: cedaro, bradyvercher
 Tags: credits, footer, credits, site credits, customizer, copyright, colophon
-Requires at least: 4.9
-Tested up to: 5.7
+Requires at least: 5.9
+Tested up to: 6.2
 Stable tag: 1.1.0
 License: GPL-2.0+
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
